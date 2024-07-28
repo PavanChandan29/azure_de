@@ -25,4 +25,4 @@ Real Property Asset Type - Identifies a property as land, building, or structure
 2024 - 7 - 19 - IOLP Leases.xlsx
 
 # Azure Services Used:
-Azure Data Factory, Azure Data Lake, DataBricks, Synapse Analytics
+Azure Data Factory, Azure Data Lake, DataBricks
